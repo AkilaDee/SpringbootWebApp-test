@@ -7,10 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	hellooooo!!!
+	hellooooo!!! HI
 </body>
 </html>
-
-
-
-localhost:8080/home
